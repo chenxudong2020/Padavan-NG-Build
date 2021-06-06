@@ -4,7 +4,7 @@
 # 修改默认参数（不同设备拷贝到相应 *.sh)          by: TurBoTse
 #####################################################################
 
-lan_ip="192.168.2"                                  # LAN 地址 别写后面的 .1
+lan_ip="192.168.1"                                  # LAN 地址 别写后面的 .1
 default_path="./user/shared"                        # 默认配置路径
 config="./configs/templates/phicomm/psg1218.config" # 默认配置文件
 
